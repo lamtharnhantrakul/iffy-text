@@ -14,20 +14,20 @@ const locale = {
         "title": "Serenity",
         "chapter": "Episode 2",
         //Caption Page 1
-        "des_1_line_1": "Interdependence and harmony<br/>expressed through<br/>seated postures<br/>from Thai Classical Dance. ",
+        "des_1_line_1": "Interdependence<br/>and harmony<br/>expressed through<br/>seated postures<br/>from Thai Classical Dance.",
         "des_1_line_2": "",
         //Caption Page 2
         "des_2_line_1": "Heartfelt love is<br/>simple and serene."
     },
     //Chinese
     "ch": {
-        "title": "平淡",
+        "title": "静谧",
         "chapter": "第二幕",
         //Caption Page 1
-        "des_1_line_1": "从灵魂邂逅<br/>到身体连结",
-        "des_1_line_2": "以泰国古典舞蹈<br/>为媒介<br/>诉说在关系中<br/>既要互相信任<br/>也要亲密有间",
+        "des_1_line_1": "盘膝而坐的<br/>泰国古典舞蹈姿势<br/>展现和谐共处<br/>形影相依",
+        "des_1_line_2": "",
         //Caption Page 2
-        "des_2_line_1": "真爱<br/>流露于行动<br/>而非言语"
+        "des_2_line_1": "真挚的爱意<br/>简单而静谧"
     }
 }
 export default locale
