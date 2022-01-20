@@ -23,14 +23,14 @@ const locale = {
     },
     //Chinese
     "ch": {
-        "title": "我和你",
+        "title": "彼此",
         "chapter": "第三幕",
         //Caption Page 1
-        "des_1_line_1": "从灵魂邂逅<br/>到身体连结",
-        "des_1_line_2": "以泰国古典舞蹈<br/>为媒介<br/>诉说在关系中<br/>既要互相信任<br/>也要亲密有间",
+        "des_1_line_1": "两位女性主舞<br/>用泰国古典舞蹈<br/>描绘情感纽带的<br/>萌芽 升华 融洽",
+        "des_1_line_2": "",
         //Caption Page 2
-        "des_2_line_1": "真爱<br/>流露于行动<br/>而非言语",
-        "des_2_line_2": "แม่กับลูก พี่น้อง ผองเพื่อน<br/>และสำหรับคนบางคน<br/>เพียงแรกพบ"
+        "des_2_line_1": "母子之关爱<br/>兄弟姐妹之悌爱<br/>朋友之友爱<br/>爱人伴侣之情爱",
+        "des_2_line_2": "爱 千姿百态"
     }
 }
 export default locale
