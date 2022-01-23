@@ -21,13 +21,13 @@ const locale = {
     },
     //Chinese
     "ch": {
-        "title": "诺言",
-        "chapter": "第一幕",
+        "title": "柔情",
+        "chapter": "第四幕",
         //Caption Page 1
-        "des_1_line_1": "从灵魂邂逅<br/>到身体连结",
-        "des_1_line_2": "以泰国古典舞蹈<br/>为媒介<br/>诉说在关系中<br/>既要互相信任<br/>也要亲密有间",
+        "des_1_line_1": "刚柔相接<br/>方得平衡",
+        "des_1_line_2": "",
         //Caption Page 2
-        "des_2_line_1": "真爱<br/>流露于行动<br/>而非言语"
+        "des_2_line_1": "泰国古典舞蹈的<br/>女性主舞<br/>领舞<br/>全心全意"
     }
 }
 export default locale
