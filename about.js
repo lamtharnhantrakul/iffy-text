@@ -1,27 +1,27 @@
 const locale = {
-    //Thai
-    "th": {
+    //English
+    "en": {
         //1
         "page_1_title": "Creative Director<br/>Producer<br/>Music Composition<br/>Graphic Design",
         "page_1_name": "ลำธาร หาญตระกูล",
         "page_1_subname": "Lamtharn Hantrakul",
         "page_1_1_title": "Composer<br/>Creative Technologist<br/>Music AI Research Scientist",
-        "page_1_1_story": "The Yaboi Hanoi project weaves music, design and technology into transcultural experiences. Lamtharn has developed intercultural audio AI tools at Google and Tiktok and has won international design awards for his cross-cultural musical instruments. He holds degrees with Distinction in Music Composition and Physics from Yale University and an M.S from Georgia Tech. He was born, raised and is currently based in Bangkok, Thailand.",
+        "page_1_1_story": "The Yaboi Hanoi project weaves music,<br/> design and technology into transcultural <br/>experiences. Lamtharn has developed <br/>intercultural audio AI tools at Google and <br/>Tiktok and has won international design <br/>awards for his cross-cultural musical <br/>instruments. He holds degrees with <br/>Distinction in Music Composition and Physics <br/>from Yale University and an M.S from Georgia <br/>Tech. He was born, raised and is currently <br/>based in Bangkok, Thailand.",
         "page_1_1_link": "www.yaboihanoi.com | Instagram @yaboihanoi | TikTok @yaboihanoi",
         //2
-        "page_2_title": "",
-        "page_2_name": "",
-        "page_2_subname": "",
-        "page_2_1_title": "",
-        "page_2_1_story": "",
-        "page_2_1_link": "",
+        "page_2_title": "Lyrics<br/>Vocals<br/>Original Track",
+        "page_2_name": "ดอรช์ ดีนซ์",
+        "page_2_subname": "Dorsh Deans",
+        "page_2_1_title": "Singer Songwriter<br/>Music Producer",
+        "page_2_1_story": "Dorsh is a Jamaican-American artist who <br/>recently released his second studio album <br/>entitled, ‘UI | UX’.  He has amassed over 6+ <br/>million streams on Spotify/Apple Music and his <br/>songs have been featured in a Netflix film and <br/>South Korean TV. <br/><br/> Throughout his career in both music and tech, <br/>Dorsh has worked with Celebrities, <br/>World-renowned Athletes, Global Brands and <br/>Fortune 500 Companies.",
+        "page_2_1_link": "https://dorshmusic.com | https://ffm.to/ui-ux",
         //3
-        "page_3_title": "",
-        "page_3_name": "",
-        "page_3_subname": "",
-        "page_3_1_title": "",
-        "page_3_1_story": "",
-        "page_3_1_link": "",
+        "page_3_title": "Choreography<br/>Costume Design<br/>Dancer",
+        "page_3_name": "ยุทธนา อัครเดชานัฏ",
+        "page_3_subname": "Yuthana Agradechanat",
+        "page_3_1_title": "Founding Director of the <br/>Kid Buak Sipp Dance Troupe <br/><br/>Head of Dance in the Department <br/>of Humanities and Social Science <br/>at Rajhabat University",
+        "page_3_1_story": "Yuthana brings a wealth of experience in the <br/>performance, choreography and costume <br/>design of both classical forms of Thai Dance <br/>such as Khon (โขน) and modern dance styles. <br/>His works exploring new forms of Thai Dance <br/>are rooted in tradition and have been featured <br/>on the international stage in a variety of mediums.",
+        "page_3_1_link": "https://web.facebook.com/profile.php?id=100050392154157",
         //4
         "page_4_title": "",
         "page_4_name": "",
@@ -65,8 +65,8 @@ const locale = {
         "page_9_1_story": "",
         "page_9_1_link": "",
     },
-    //English
-    "en": {
+    //Thai
+    "th": {
         //1
         "page_1_title": "Creative Director<br/>Producer<br/>Music Composition<br/>Graphic Design",
         "page_1_name": "ลำธาร หาญตระกูล",
