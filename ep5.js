@@ -4,7 +4,7 @@ const locale = {
         "title": "ห่วงใย",
         "chapter": "องก์ที่ ๕",
         //Caption Page 1
-        "des_1_line_1": "ทะนุถนอม​ มองพักตร์<br/>รับประคอง​ ผองเรา",
+        "des_1_line_1": "ทะนุถนอม มองพักตร์<br/>รับประคอง ผองเรา",
         "des_1_line_2": "ด้วยการเต้นรำเคลื่อนไหว<br/>ของชายผู้  รับรอง<br/>การเคลื่อนไหวของสองหญิง",
         //Caption Page 2
         "des_2_line_1": "รัก",
@@ -23,14 +23,14 @@ const locale = {
     },
     //Chinese
     "ch": {
-        "title": "关怀",
+        "title": "关爱",
         "chapter": "第五幕",
         //Caption Page 1
-        "des_1_line_1": "珍惜地注视倩容<br/>掺扶 我俩",
-        "des_1_line_2": "由舞士舞姿承受<br/>两女动作",
+        "des_1_line_1": "放胆去爱",
+        "des_1_line_2": "",
         //Caption Page 2
-        "des_2_line_1_ch": "爱",
-        "des_2_line_2_ch": "有时带来勇气<br/>最温暖的眷顾<br/><br/>那温馨的力量<br/>散发至远方"
+        "des_2_line_1_ch": "泰国古典舞蹈的<br/>男性主舞<br/>作为轴心<br/>支撑两位女舞者<br/>他 矢志不渝",
+        "des_2_line_2_ch": "大爱无边"
     }
 }
 export default locale
