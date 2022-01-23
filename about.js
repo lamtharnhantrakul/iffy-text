@@ -80,11 +80,11 @@ const locale = {
     //Thai
     "th": {
         //1
-        "page_1_title": "Creative Director<br/>Producer<br/>Music Composition<br/>Graphic Design",
+        "page_1_title": "ผู้อำนวยการสร้าง<br/>ผู้กำกับ<br/>ประพันธ์ดนตรี<br/>กราฟิกดีไซน์",
         "page_1_name": "ลำธาร หาญตระกูล",
         "page_1_subname": "Lamtharn Hantrakul",
-        "page_1_1_title": "Composer<br/>Creative Technologist<br/>Music AI Research Scientist",
-        "page_1_1_story": "The Yaboi Hanoi project weaves music, design and technology into transcultural experiences. Lamtharn has developed intercultural audio AI tools at Google and Tiktok and has won international design awards for his cross-cultural musical instruments. He holds degrees with Distinction in Music Composition and Physics from Yale University and an M.S from Georgia Tech. He was born, raised and is currently based in Bangkok, Thailand.",
+        "page_1_1_title": "นักประพันธ์ดนตรีอิสระ<br/>นักประดิษฐ์เทคโนโลยีเชิงสร้างสรรค์ <br/>(Creative Technologist)<br/>นักวิจัยปัญญาประดิษฐ์ทางด้านเสียง<br/>เเละดนตร <br/>(Music and Audio AI Research Scientist)",
+        "page_1_1_story": "ญาบอย ฮานอย โปรเจค ใช้การรวมตัวของ<br/>ดนตรี  ดีไซน์  เเละเทคโนโลยีในการถอดรหัส<br/>วัฒนธรรม (transcultural) ลำธารมี<br/>ประสบการณ์ค้นคว้าระบบเทคโนโลยีข้าม<br/>วัฒนธรรมที่ Google เเละ TikTok   จบปริญญาตรี<br/>ประพันธ์ดนตรีเเละฟิสิกส์ (เกียรตินิยม) จาก<br/>มหาลัยเยล (Yale University) เเละปริญญาโท<br/>เทคโนโลยีดนตรีที่จอร์เจียเทค (Georgia Tech)<br/> ลำธารเกิด เติบโต เเละอาศัยอยู่ที่กรุงเทพฯ",
         "page_1_1_link": "www.yaboihanoi.com | Instagram @yaboihanoi | TikTok @yaboihanoi",
         //2
         "page_2_title": "Lyrics<br/>Vocals<br/>Original Track",
