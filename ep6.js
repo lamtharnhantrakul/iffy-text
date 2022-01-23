@@ -24,14 +24,15 @@ const locale = {
     },
     //Chinese
     "ch": {
-        "title": "纯真自在",
+        "title": "无界",
         "chapter": "第六幕",
         //Caption Page 1
-        "des_1_line_1": "当心连心<br/><br/>所有疑虑消散<br/>温柔无生息<br/>而我们仅遇到<br/><br/>平等",
+        "des_1_line_1": "当我们<br/>心意相通<br/>便不再怀疑<br/>不再恐惧",
+        "des_1_line_2": "我们<br/>毫无二致",
         //Caption Page 2
-        "des_2_line_1": "性别舞姿缠<br/>生多重意识",
+        "des_2_line_1": "所有舞者<br/>展示<br/>性别多元",
         //Caption Page 3
-        "des_3_line_1": "我身 非我身<br/>遇他而了解<br/>放下"
+        "des_3_line_1": "泰然处之"
     }
 }
 export default locale
